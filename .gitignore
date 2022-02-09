@@ -1,0 +1,7 @@
+CECyCuEmojiComb.xcodeproj/xcuserdata/
+CECyCuEmojiComb.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+CECyCuEmojiComb.xcodeproj/project.xcworkspace/xcuserdata/
